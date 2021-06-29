@@ -1,16 +1,17 @@
 ### Hi there 👋
+<br>
 
+I'm a highschool student 👨‍🎓!
+I study at the IFPR with an integrated technical course of technology 🏫!
+I'm from Brazil 🇧🇷!
+<br>
 
-**OdisBy/OdisBy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning frontend using Angular, and backend using .NET C#
+- 🤔 I'm looking for what programming language is my personal favorite
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+## Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ruliam-dos-santos-de-oliveira-893883211/)
+[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/15897207/odisby)
+<br>
+<br>
