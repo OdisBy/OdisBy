@@ -2,7 +2,11 @@
 <br>
 
 I'm a highschool student 👨‍🎓!
+<br>
+
 I study at the IFPR with an integrated technical course of technology 🏫!
+<br>
+
 I'm from Brazil 🇧🇷!
 <br>
 
