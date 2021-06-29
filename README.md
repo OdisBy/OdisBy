@@ -1,13 +1,13 @@
 ### Hi there 👋
 <br>
 
-I'm a highschool student 👨‍🎓!
+I'm a highschool student 👨‍🎓
 <br>
 
-I study at the IFPR with an integrated technical course of technology 🏫!
+I study at the IFPR with an integrated technical course of technology 🏫
 <br>
 
-I'm from Brazil 🇧🇷!
+I'm from Brazil 🇧🇷
 <br>
 
 - 🌱 I’m currently learning frontend using Angular, and backend using .NET C#
