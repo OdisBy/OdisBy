@@ -12,6 +12,7 @@ I'm from Brazil 🇧🇷
 
 - 🌱 I’m currently learning frontend using Angular, and backend using .NET C#
 - 🤔 I'm looking for what programming language is my personal favorite
+- 🔭 I'm studying cyber security.
 <br>
 
 ## Connect with me
