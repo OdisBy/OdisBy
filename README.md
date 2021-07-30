@@ -20,3 +20,4 @@ I'm from Brazil 🇧🇷
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/15897207/odisby)
 <br>
 <br>
+:books: Reading: Sistemas Operacionais: Conceitos e Mecanismos
