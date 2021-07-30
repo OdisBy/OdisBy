@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 
-I'm a highschool student 👨‍🎓
+I'm a high school student 👨‍🎓
 <br>
 
 I study at the IFPR with an integrated technical course of technology 🏫
