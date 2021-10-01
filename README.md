@@ -10,10 +10,10 @@ I study at the IFPR with an integrated technical course of technology 🏫
 I'm from Brazil 🇧🇷
 <br>
 
-- 🌱 I’m currently learning frontend using Angular, and backend using .NET C#
+- 🌱 I’m currently learning C#
 - 🤔 I'm looking for what programming language is my personal favorite
 - 🔭 I'm studying cyber security.
-- :books: Reading: Sistemas Operacionais: Conceitos e Mecanismos
+- 🎮 I'm studying Game development.
 <br>
 
 ## Connect with me
