@@ -10,9 +10,9 @@ I study at the IFPR with an integrated technical course of technology 🏫
 I'm from Brazil 🇧🇷
 <br>
 
-- 🌱 I’m currently learning C#
-- 🤔 I'm looking for what programming language is my personal favorite
-- 🔭 I'm studying cyber security.
+- 🌱 I’m currently learning Kotlin
+- 🤔 I'm looking for what programming language is my personal favorite [I PROBABLY FOUND KOTLIN 🥴]
+- 🔭 I'm studying Android Dev.
 - 🎮 I'm studying Game development.
 <br>
 
