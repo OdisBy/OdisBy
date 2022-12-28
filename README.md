@@ -1,19 +1,14 @@
 ### Hi there 👋
 <br>
 
-I'm a high school student 👨‍🎓
-<br>
-
-I study at the IFPR with an integrated technical course of technology 🏫
+I'm looking for a job opportunity as Junior Mobile Developer with Kotlin 📱
 <br>
 
 I'm from Brazil 🇧🇷
 <br>
 
-- 🌱 I’m currently learning Kotlin
-- 🤔 I'm looking for what programming language is my personal favorite [I PROBABLY FOUND KOTLIN 🥴]
+- 🌱 I’m currently learning Mobile Dev with Kotlin
 - 🔭 I'm studying Android Dev.
-- 🎮 I'm studying Game development.
 <br>
 
 ## Connect with me
