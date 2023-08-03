@@ -10,6 +10,7 @@
 I am a Mobile Developer from Brazil.
 - :relaxed: I'm looking for a job opportunity as Junior Mobile Developer with Kotlin 📱
 - 🌱 I’m currently learning Mobile Dev with Kotlin
+- 🌱 I’m also learning GO
 - :zap: In my free time, I solve problems on Hackerrank.
 
 ---
