@@ -8,6 +8,7 @@
 
 ### :woman_technologist: About Me :
 I am a Mobile Developer from Brazil.
+- :briefcase: Working on LoryBlu
 - :relaxed: I'm looking for a job opportunity as Junior Mobile Developer with Kotlin 📱
 - 🌱 I’m currently learning Mobile Dev with Kotlin
 - 🌱 I’m also learning GO
