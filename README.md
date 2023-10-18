@@ -7,7 +7,9 @@
 </div>
 
 ### :woman_technologist: About Me :
+
 I am a Mobile Developer from Brazil.
+
 - :briefcase: Working on LoryBlu and Routinely
 - :relaxed: I'm looking for a job opportunity as Junior Mobile Developer with Kotlin 📱
 - 🌱 I’m currently learning Android Development with Kotlin and Jetpack Compose
@@ -17,6 +19,7 @@ I am a Mobile Developer from Brazil.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
@@ -30,10 +33,8 @@ I am a Mobile Developer from Brazil.
 </div>
 
 ## Connect with me
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ruliam-dos-santos-de-oliveira-893883211/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/15897207/odisby)
 <br>
 <br>
-<img alt="Snake animation" src="https://github.com/OdisBy/OdisBy/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-<img alt="Snake animation" src="https://github.com/OdisBy/OdisBy/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-
