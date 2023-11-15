@@ -10,11 +10,10 @@
 
 I am a Mobile Developer from Brazil.
 
-- :briefcase: Working on LoryBlu and Routinely
-- :relaxed: I'm looking for a job opportunity as Junior Mobile Developer with Kotlin 📱
-- 🌱 I’m currently learning Android Development with Kotlin and Jetpack Compose
+- :briefcase: Working on Banco Bari
+- :satisfied: Volunteer work on LoryBlu and Routinely
+- 🌱 I’m currently working as Android Developer with Kotlin and XML
 - 🌱 I’m also learning GO and AWS
-- :zap: In my free time, I solve problems on Leetcode.
 
 ---
 
