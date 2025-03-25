@@ -10,10 +10,9 @@
 
 I am a Mobile Developer from Brazil.
 
-- :briefcase: Working on Banco Bari
-- :satisfied: Volunteer work on LoryBlu and Routinely
-- 🌱 I’m currently working as Android Developer with Kotlin and XML
-- 🌱 I’m also learning GO and AWS
+- :briefcase: Working at Agendor
+- :satisfied: Volunteer work on LoryBlu
+- 🌱 I’m currently working as Android Developer with Kotlin and Jetpack Compose
 
 ---
 
